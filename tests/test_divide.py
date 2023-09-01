@@ -1,3 +1,5 @@
+import pytest
+
 from src.divide import divide
 
 
@@ -8,4 +10,5 @@ def test_divide():
 
 
 def test_divide__division_zero():
-    ...
+    with pytest.raises(ZeroDivisionError):
+        divide(10, 0)
