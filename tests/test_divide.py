@@ -1,6 +1,6 @@
 import pytest
 
-from src.divide import divide
+from src.is_divide import divide
 
 
 def test_divide():

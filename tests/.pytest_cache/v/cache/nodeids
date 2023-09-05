@@ -8,5 +8,7 @@
   "test_list_types.py::test_types_count",
   "test_list_types.py::test_types_count[array0-int-3]",
   "test_list_types.py::test_types_count[array1-int-1]",
-  "test_list_types.py::test_types_count[array2-str-2]"
+  "test_list_types.py::test_types_count[array2-str-2]",
+  "test_list_types.py::test_types_count[array3-str-3]",
+  "test_list_types.py::test_types_count[array4-int-0]"
 ]
