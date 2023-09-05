@@ -1,3 +1,5 @@
 {
-  "test_list_types.py": true
+  "test_list_types.py": true,
+  "test_append_array.py::test_append_array[array0-4-expected0]": true,
+  "test_append_array.py::test_append_array[array1-5-expected1]": true
 }
